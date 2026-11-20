@@ -13,7 +13,7 @@ Ce dépôt matérialise la démarche complète vue en séminaire :
 > * 🔗 **Plateforme déployée (Cloud)** : [https://lms-ept.duckdns.org/](https://lms-ept.duckdns.org/) (Storefront : [/store](https://lms-ept.duckdns.org/store))
 > * 🎬 **Vidéo Version Courte (3 min)** : [Voir sur Google Drive](https://drive.google.com/file/d/1ujXcvnCkv5ZaOlWOmqF8WxwzVxbeyew2/view?usp=sharing)
 > * 🎥 **Vidéo Version Longue (complète)** : [Voir sur Google Drive](https://drive.google.com/file/d/1830WqaB1pehwhz8m8aXrB58FUUq3Rhd6/view?usp=sharing)
-> * 🔑 **Comptes de test** : Professeur (`aaciss@ept.edu.sn` / `password123`) · Étudiant (`acharbeladonis@ept.edu.sn` / `password123`)
+> * 🔑 **Comptes de test** : disponibles sur demande auprès des auteurs
 > * 📑 **Document d'exploitation** : [Document_d_exploitation_LMS_EPT.pdf](docs/proofs/Document_d_exploitation_LMS_EPT.pdf)
 
 ---

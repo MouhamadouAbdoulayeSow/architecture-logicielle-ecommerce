@@ -29,8 +29,8 @@ L'ensemble de la plateforme est déployé et opérationnel sur serveur Cloud acc
 ### Comptes de Démonstration Pré-configurés :
 | Profil / Rôle | Identifiant (Email) | Mot de passe | Rôle Métier |
 | :--- | :--- | :--- | :--- |
-| **Professeur / Formateur** | `aaciss@ept.edu.sn` | `password123` | Création de cours, tarification, publication |
-| **Étudiant / Client** | `acharbeladonis@ept.edu.sn` | `password123` | Consultation catalogue, commande, accès aux cours |
+| **Professeur / Formateur** | *compte enseignant de test* | *sur demande* | Création de cours, tarification, publication |
+| **Étudiant / Client** | *compte étudiant de test* | *sur demande* | Consultation catalogue, commande, accès aux cours |
 
 ---
 

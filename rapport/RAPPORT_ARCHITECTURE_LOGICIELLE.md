@@ -354,7 +354,7 @@ flowchart LR
 * 🌐 **Plateforme en Ligne** : [https://lms-ept.duckdns.org/](https://lms-ept.duckdns.org/) (Storefront : [/store](https://lms-ept.duckdns.org/store))
 * 🎬 **Vidéo Version Courte (3 min)** : [Lien Google Drive](https://drive.google.com/file/d/1ujXcvnCkv5ZaOlWOmqF8WxwzVxbeyew2/view?usp=sharing)
 * 🎥 **Vidéo Version Longue (détaillée)** : [Lien Google Drive](https://drive.google.com/file/d/1830WqaB1pehwhz8m8aXrB58FUUq3Rhd6/view?usp=sharing)
-* 🔑 **Comptes de Test** : Professeur (`aaciss@ept.edu.sn` / `password123`) · Étudiant (`acharbeladonis@ept.edu.sn` / `password123`)
+* 🔑 **Comptes de Test** : disponibles sur demande auprès des auteurs
 * 📑 **Document d'Exploitation** : [`docs/proofs/Document_d_exploitation_LMS_EPT.pdf`](file:///home/sowma/projects/architecture_logicielle/docs/proofs/Document_d_exploitation_LMS_EPT.pdf)
 
 #### Démarrage Local en une commande :
